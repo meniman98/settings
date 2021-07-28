@@ -20,12 +20,18 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl f2" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="EditorDeleteLine" />
   <action id="EditorScrollLeft">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="EditorScrollRight">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
   </action>
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
