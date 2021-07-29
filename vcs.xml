@@ -18,6 +18,10 @@
           <option name="url" value="http://csd.pl.s2-eu.capgemini.com" />
           <option name="userName" value="ahabdulr" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/udacity/andfun-kotlin-guess-it.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\mrira\AndroidStudioProjects" />
