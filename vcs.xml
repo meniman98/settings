@@ -22,9 +22,13 @@
           <option name="url" value="https://github.com/udacity/andfun-kotlin-guess-it.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/udacity/android-testing/tree/starter_code" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\mrira\AndroidStudioProjects" />
+    <option name="cloneParentDir" value="C:\Users\mrira\AndroidStudioProjects\Udacity" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
