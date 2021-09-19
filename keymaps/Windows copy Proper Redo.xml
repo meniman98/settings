@@ -17,7 +17,7 @@
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
   </action>
-  <action id="CloseAllEditors">
+  <action id="CloseAllUnpinnedEditors">
     <keyboard-shortcut first-keystroke="ctrl f2" />
   </action>
   <action id="CloseContent">
