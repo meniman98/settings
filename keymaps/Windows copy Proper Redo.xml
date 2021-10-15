@@ -36,6 +36,9 @@
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="JumpToLastWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
   </action>
