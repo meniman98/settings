@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/IntelliJIDEAProjects" />
+        <option value="$USER_HOME$/Downloads/SpringBootPlayground" />
       </list>
     </option>
   </component>
