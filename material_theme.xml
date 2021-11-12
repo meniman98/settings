@@ -1,6 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="contrastMode" value="true" />
     <option name="premium" value="true" />
+    <option name="isContrastMode" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="accentColor" value="416a9b" />
     <option name="selectedTheme" value="NATIVE" />
