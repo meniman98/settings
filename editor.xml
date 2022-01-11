@@ -8,4 +8,7 @@
     <option name="FONT_REGULAR_SUB_FAMILY" value="Light" />
     <option name="FONT_BOLD_SUB_FAMILY" value="Light" />
   </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+  </component>
 </application>
