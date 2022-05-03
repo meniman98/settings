@@ -117,6 +117,11 @@
                       <FeaturePluginData displayName="TestNG" pluginName="TestNG" pluginId="TestNG-J" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="TypeScriptProgramRunner">
+                    <value>
+                      <FeaturePluginData displayName="TypeScript" pluginName="Run Configuration for TypeScript" pluginId="io.plugin.tsnode" />
+                    </value>
+                  </entry>
                   <entry key="XSLT">
                     <value>
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" bundled="true" />
